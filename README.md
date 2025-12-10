@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?
-    lines=Estudiante%20de%20Informatica;Siempre%20aprendiendo;></a>
+    lines=Estudiante%20de%20Informatica;Siempre%20aprendiendo;"></a>
 </p>
 
 ---
