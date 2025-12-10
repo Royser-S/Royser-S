@@ -9,10 +9,10 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Estudiante%20de%20Informatica;Siempre%20aprendiendo&font=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
-
+---
 <p align="center">
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31sgcairqp2llo5j7txmtphjflgy&redirect=true">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31sgcairqp2llo5j7txmtphjflgy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color_cover=false" alt="Spotify" />
+  <img src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif/api/view?uid=31sgcairqp2llo5j7txmtphjflgy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color_cover=false" alt="Spotify" />
 </a>
 </p>
 
