@@ -5,18 +5,17 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Ingeniero%20de%20Software;Ingeniero%20de%20IA;Siempre%20aprendiendo;Mira%20mi%20perfil%20%F0%9F%91%80;Escr%C3%ADbeme%20si%20necesitas%20ayuda!%20%F0%9F%92%AC&font=Fira%20Code&center=true&width=440&height=45"></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Royser-S/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=Royser-S.Royser-S"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?
+    lines=Estudiante%20de%20Informatica;Siempre%20aprendiendo;></a>
 </p>
 
 ---
 
-- 👨‍💻 Como Ingeniero de Software e IA, estoy constantemente aprendiendo y explorando nuevas tecnologías para mejorar mis habilidades.
-- 💬 Pregúntame sobre mi experiencia en Desarrollo de Aplicaciones Móviles y Machine Learning.
-- 🌱 Estoy profundizando en _[Machine Learning](https://www.coursera.org/browse/data-science/machine-learning)_ y _[IA](https://www.deeplearning.ai/)_
+- 🎓 Actualmente soy estudiante de **5to ciclo en Cibertec**.
+- 💼 Realizo mis prácticas en el **área de sistemas** de una empresa de Marketing, apoyando en la **Gestión TI**.
+- 💻 Mi gran pasión es el **Backend** y la **Arquitectura de Bases de Datos**; disfruto construyendo la lógica detrás de las aplicaciones.
+- 🌱 Soy muy curioso y me encanta **aprender constantemente**; siempre estoy buscando mejorar mi stack tecnológico.
+
 
 ## 🛠️ Stack Tecnológico & Herramientas
 
@@ -43,7 +42,6 @@ Las herramientas que utilizo y con las que me siento cómodo desarrollando.
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 ### 🗄️ Bases de Datos
 
