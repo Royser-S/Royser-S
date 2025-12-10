@@ -22,11 +22,12 @@
 ### Spotify Playing 🎧
 
 
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31sgcairqp2llo5j7txmtphjflgy&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31sgcairqp2llo5j7txmtphjflgy&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=true&bar_color_cover=true">
-  </a>
-</p>
+<a href="https://Royser.pythonanywhere.com/link">
+  <img
+    src="https://Royser.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark"
+    alt="Current Spotify Song"
+  />
+</a>
 
 ---
 
