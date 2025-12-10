@@ -16,6 +16,7 @@
 - 💻 Mi gran pasión es el **Backend** y la **Arquitectura de Bases de Datos**; disfruto construyendo la lógica detrás de las aplicaciones.
 - 🌱 Soy muy curioso y me encanta **aprender constantemente**; siempre estoy buscando mejorar mi stack tecnológico.
 
+---
 
 ## 🛠️ Stack Tecnológico & Herramientas
 
