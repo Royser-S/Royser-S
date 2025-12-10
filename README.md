@@ -98,3 +98,8 @@ Las herramientas que utilizo y con las que me siento cómodo desarrollando.
 </div>
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Royser-S/Royser-S/output/github-contribution-grid-snake.svg" media="(prefers-color-scheme: light)" />
+  <img src="https://raw.githubusercontent.com/Royser-S/Royser-S/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)" />
+</p>
