@@ -1,4 +1,3 @@
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -17,7 +16,12 @@
 - 💻 Mi gran pasión es el **Backend** y la **Arquitectura de Bases de Datos**; disfruto construyendo la lógica detrás de las aplicaciones.
 - 🌱 Soy muy curioso y me encanta **aprender constantemente**; siempre estoy buscando mejorar mi stack tecnológico.
 
+
+
 ---
+
+<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
 
 ### Spotify Playing 🎧
 
