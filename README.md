@@ -64,62 +64,14 @@ Las herramientas que utilizo y con las que me siento cómodo desarrollando.
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-## 📊 Estadísticas del Perfil
-
- <div align=center>
-
-![](https://github-readme-stats.vercel.app/api?username=Royser-S&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
-<br>
-
-</div>
- 
- ### 💳 Tarjeta de Resumen
- 
- <div align=center>
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Royser-S&theme=github_dark)
-  
- </div>
- 
- ### ⏱ Racha de Código (Streak)
- 
- <div align=center>
-  
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Royser-S&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
-
- </div>
- 
- ### 📈 Gráfico de Actividad
- 
- [![Royser's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Royser-S&theme=react-dark)](https://github.com/Royser-S/)
-
-### 📊 Lenguajes más usados
-
- <div align=center>
-  
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=Royser-S&show_icons=true&locale=es&layout=compact&theme=radical)]()  
-  
- </div>
- 
- ### 🏆 Trofeos
-
-<div align=center>
- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Royser-S&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
-
----
 
 ### 🔗 &nbsp;Contáctame
 
 <div align="center">
-<a href="mailto:TU_EMAIL@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:royserfonce@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<a href="https://www.linkedin.com/in/TU_LINKEDIN/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/royser-fonce-chuquihuayta-aranda-20b2aa39a/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-<a href="https://t.me/TU_TELEGRAM"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
 </div>
 
 ---
