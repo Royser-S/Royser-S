@@ -24,7 +24,7 @@
 
 <a href="https://Royser.pythonanywhere.com/link">
   <img
-    src="https://Royser.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark"
+    src="https://Royser.pythonanywhere.com?scan=true&eq_color=rainbow&theme=dark"
     alt="Current Spotify Song"
   />
 </a>
