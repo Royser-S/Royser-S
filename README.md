@@ -1,25 +1,25 @@
 <h3 align="center">
-  Hi, I'm Abdalrahman Alhamod
+  Hola, Soy Royser Chuquihuayta
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;AI%20Engineer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Ingeniero%20de%20Software;Ingeniero%20de%20IA;Siempre%20aprendiendo;Mira%20mi%20perfil%20%F0%9F%91%80;Escr%C3%ADbeme%20si%20necesitas%20ayuda!%20%F0%9F%92%AC&font=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Abdalrahman-Alhamod/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=Abdalrahman-Alhamod.Abdalrahman-Alhamod"></a>
+  <a href="https://github.com/Royser-S/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=Royser-S.Royser-S"></a>
 </p>
 
 ---
 
-- 👨‍💻 As an AI & Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Mobile Application Development, Machine Learning.
-- 🌱 I’m diving deeper into _[Machine Learning](https://www.coursera.org/browse/data-science/machine-learning)_ and _[AI](https://www.deeplearning.ai/)_
+- 👨‍💻 Como Ingeniero de Software e IA, estoy constantemente aprendiendo y explorando nuevas tecnologías para mejorar mis habilidades.
+- 💬 Pregúntame sobre mi experiencia en Desarrollo de Aplicaciones Móviles y Machine Learning.
+- 🌱 Estoy profundizando en _[Machine Learning](https://www.coursera.org/browse/data-science/machine-learning)_ y _[IA](https://www.deeplearning.ai/)_
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tecnologías (Tech Stack)
 
-#### 🔧 Languages
+#### 🔧 Lenguajes
 
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -39,14 +39,14 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
 
-#### 📚 Libraries
+#### 📚 Librerías
 
 ![Numpy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E20000.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-#### 🔧 Tools
+#### 🔧 Herramientas
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -63,62 +63,62 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?style=for-the-badge&logo=adobe%20xd&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📊 Profile Statistics
+## 📊 Estadísticas del Perfil
 
  <div align=center>
 
-![](https://github-readme-stats.vercel.app/api?username=Abdalrahman-Alhamod&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
+![](https://github-readme-stats.vercel.app/api?username=Royser-S&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
 <br>
 
 </div>
  
- ### 💳 Github Profile Summary Card
+ ### 💳 Tarjeta de Resumen
  
  <div align=center>
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdalrahman-Alhamod&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Royser-S&theme=github_dark)
   
  </div>
  
- ### ⏱ Streak Stats
+ ### ⏱ Racha de Código (Streak)
  
  <div align=center>
   
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abdalrahman-Alhamod&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Royser-S&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
 
  </div>
  
- ### 📈 Activity Graph
+ ### 📈 Gráfico de Actividad
  
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdalrahman-Alhamod&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Royser's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Royser-S&theme=react-dark)](https://github.com/Royser-S/)
 
-### 📊 Most Used Language
+### 📊 Lenguajes más usados
 
  <div align=center>
   
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=Abdalrahman-Alhamod&show_icons=true&locale=en&layout=compact&theme=radical)]()  
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=Royser-S&show_icons=true&locale=es&layout=compact&theme=radical)]()  
   
  </div>
  
- ### 🏆 Profile Trophies
+ ### 🏆 Trofeos
 
 <div align=center>
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Abdalrahman-Alhamod&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Royser-S&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
 
 ---
 
-### 🔗 &nbsp;Contact Me
+### 🔗 &nbsp;Contáctame
 
 <div align="center">
-<a href="mailto:abd.alrrahman.alhamod@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/abd-alrrahman-alhamod/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://t.me/Abd_Alrhman_Alhamod"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+<a href="mailto:TU_EMAIL@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<a href="https://www.linkedin.com/in/TU_LINKEDIN/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<a href="https://t.me/TU_TELEGRAM"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 </div>
-
-<h5 align="center">سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ</h5>
 
 ---
