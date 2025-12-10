@@ -1,3 +1,5 @@
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
 <h3 align="center">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
@@ -8,12 +10,21 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Estudiante%20de%20Informatica;Siempre%20aprendiendo&font=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
 
+<p align="center">
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31sgcairqp2llo5j7txmtphjflgy&redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31sgcairqp2llo5j7txmtphjflgy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color_cover=false" alt="Spotify" />
+</a>
+</p>
+
 ---
 
 - 🎓 Actualmente soy estudiante de **5to ciclo en Cibertec** **(LIMA CENTRO - PERÚ)**.
 - 💼 Realizo mis prácticas en el **área de sistemas** de una empresa de Marketing, apoyando en la **Gestión TI**.
 - 💻 Mi gran pasión es el **Backend** y la **Arquitectura de Bases de Datos**; disfruto construyendo la lógica detrás de las aplicaciones.
 - 🌱 Soy muy curioso y me encanta **aprender constantemente**; siempre estoy buscando mejorar mi stack tecnológico.
+
+---
+
 
 ## 🛠️ Stack Tecnológico & Herramientas
 
@@ -67,11 +78,11 @@ Las herramientas que utilizo y con las que me siento cómodo desarrollando.
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
+---
 
 ### 🔗 &nbsp;Contáctame
 
 <div align="center">
-<a href="mailto:royserfonce@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <a href="https://www.linkedin.com/in/royser-fonce-chuquihuayta-aranda-20b2aa39a/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
