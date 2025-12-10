@@ -5,11 +5,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Estudiante%20de%20Sinformatica;Siempre%20aprendiendo&font=Fira%20Code&center=true&width=440&height=45"></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Royser-S/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=Royser-S.Royser-S"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Estudiante%20de%20Informatica;Siempre%20aprendiendo&font=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
 
 ---
